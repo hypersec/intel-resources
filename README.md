@@ -2,7 +2,7 @@
 
 <img src="https://github.com/hypersec/intel-resources/blob/main/GitHubHeader.png">
 
-| Left-aligned | Tool Description |
+| Left-aligned | Tool Type|
 | :---         | :--- |
 | [overpass-turbo](https://overpass-turbo.eu/) | Scripts and Filters for maps|
 |[OpenSky Network API](https://openskynetwork.github.io/opensky-api/) | Track Live Flight Data|
@@ -43,6 +43,17 @@
 |[](https://freegisdata.rtwilson.com/)|GIS Data Collection|
 |[](https://zoom.earth/)|hh|
 |[](https://satellites.pro/)|Satellite Imagery|
+|[](https://uk.flightaware.com/live/)|hh|
+|[](https://liveuamap.com/)|Maps|
+|[](https://www.riskmap.com/)|hh|
+|[](https://www.worldtimebuddy.com/)|Time Converter|
+|[](https://www.cia.gov/the-world-factbook/countries/)|hh|
+|[](https://emm.newsbrief.eu/NewsBrief/clusteredition/en/latest.html)|News|
+|[](http://news-explorer.mybluemix.net/)|News|
+|[](https://www.newsnow.co.uk/h/World+News)|hh|
+|[](https://www.shodan.io/)|hh|
+|[](https://www.localizatodo.com/html5/)|hh|
+|[](https://perma.cc/)|hh|
 |[]()|hh|
 |[]()|hh|
 |[]()|hh|
