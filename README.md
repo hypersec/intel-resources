@@ -10,5 +10,7 @@
 |[RadarBox](https://www.radarbox.com/)|Live Flight Data|
 |[FlightRadar24](https://www.flightradar24.com/)|Live Flight Data|
 |[MarineTraffic](https://www.marinetraffic.com/)|Live Maritime Data|
-|Google Earth](https://earth.google.com/web/)|World Imagery|
+|[Google Earth](https://earth.google.com/web/)|World Imagery|
 |[Sentinel Hub](https://www.sentinel-hub.com/)|Satellite Imagery|
+|[DualMaps](http://www.dualmaps.com/)|Maps]
+|[Bing Visual Search](https://www.bing.com/visualsearch/Microsoft/SimilarImages)|Search Engine|
