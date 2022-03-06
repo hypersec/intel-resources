@@ -54,7 +54,7 @@
 |[](https://www.shodan.io/)|hh|
 |[](https://www.localizatodo.com/html5/)|hh|
 |[](https://perma.cc/)|hh|
-|[]()|hh|
+|[](http://exif.regex.info/exif.cgi)|hh|
 |[]()|hh|
 |[]()|hh|
 |[]()|hh|
