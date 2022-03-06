@@ -22,9 +22,9 @@
 |[]()|a|
 |[]()|a|
 |[]()|a|
-|[]()|a|
-|[]()|a|
-|[]()|a|
+|[](https://www.openstreetmap.org/)|Map|
+|[](http://data.mapchannels.com/routemaps2/routemap200.htm?saddr=17706%20Seattle%20Ferry%20Terminal,%20Seattle,%20WA%2098104,%20USA&daddr=400%20Broad%20St,%20Seattle,%20WA%2098109,%20USA&maptype=2&units=2&z=15&fi=50&fs=1&refresh=3&timeout=300&draggable=0&sw=240&svc=0&svz=2&atw=160&fgc=000000&bgc=CCCCCC&rc=FF0000&rw=3&ro=0.7)|Animated Route Map|
+|[](https://www.instantstreetview.com/)|Instant Street View|
 |[](https://www.bincodes.com/creditcard-checker/)|a|
 |[](https://binlist.net/)|Credit and debit card meta data|
 |[](https://data.oecd.org/)|Data and Stats by the OECD|
