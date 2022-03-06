@@ -55,8 +55,8 @@
 |[](https://www.localizatodo.com/html5/)|hh|
 |[](https://perma.cc/)|hh|
 |[](http://exif.regex.info/exif.cgi)|hh|
-|[]()|hh|
-|[]()|hh|
+|[](https://tweetdeck.twitter.com/)|hh|
+|[](https://twitter.com/search-advanced?lang=en)|hh|
 |[]()|hh|
 |[]()|hh|
 |[]()|hh|
