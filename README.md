@@ -4,6 +4,5 @@
 
 | Left-aligned | abc  |
 | :---         | :--- |
-| [overpass-turbo](https://overpass-turbo.eu/) | Tool for...  |
-| git diff     | abc  |
+| [overpass-turbo](https://overpass-turbo.eu/) | Scripts and Filters for maps|
 |[OpenSky Network API](https://openskynetwork.github.io/opensky-api/) | Track Live Flight Data|
