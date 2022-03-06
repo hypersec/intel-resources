@@ -9,3 +9,5 @@
 |[ADS-B Exchange - Live Map - Globe(https://globe.adsbexchange.com/)| Live Flight Data|
 |[RadarBox](https://www.radarbox.com/)|Live Flight Data|
 |[FlightRadar24](https://www.flightradar24.com/)|Live Flight Data|
+|[MarineTraffic](https://www.marinetraffic.com/)|Live Maritime Data|
+
