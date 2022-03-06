@@ -12,5 +12,6 @@
 |[MarineTraffic](https://www.marinetraffic.com/)|Live Maritime Data|
 |[Google Earth](https://earth.google.com/web/)|World Imagery|
 |[Sentinel Hub](https://www.sentinel-hub.com/)|Satellite Imagery|
-|[DualMaps](http://www.dualmaps.com/)|Maps]
+|[DualMaps](http://www.dualmaps.com/)|Maps|
 |[Bing Visual Search](https://www.bing.com/visualsearch/Microsoft/SimilarImages)|Search Engine|
+|[TinEye](https://tineye.com/)|Reverse Image Search|
