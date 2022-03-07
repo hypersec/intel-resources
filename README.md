@@ -58,6 +58,15 @@
 |[](https://tweetdeck.twitter.com/)|hh|
 |[](https://twitter.com/search-advanced?lang=en)|hh|
 |[](https://share.streamlit.io/mjcruickshank/sarveillance/reorganisation/app/web.py)|hh|
+|[](https://www.thecipherbrief.com/)|Blog|
+|[]()|hh|
+|[]()|hh|
+|[]()|hh|
+|[]()|hh|
+|[]()|hh|
+|[]()|hh|
+|[]()|hh|
+|[]()|hh|
 |[]()|hh|
 |[]()|hh|
 
