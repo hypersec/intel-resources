@@ -1,5 +1,8 @@
 # Intelligence Resources for Researchers and Analysts
 
+Dear Intelligence Community
+I have created a collection of tools and instruments to facilitate the task of searching, analysing and interpreting intel. 
+
 <img src="https://github.com/hypersec/intel-resources/blob/main/GitHubHeader.png">
 
 | Left-aligned | Tool Type|
